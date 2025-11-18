@@ -1,0 +1,21 @@
+﻿  Source.c
+C:\Users\Ezekiel Chang\source\repos\FLIP SIMULATION\Source.c(63,67): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ezekiel Chang\source\repos\FLIP SIMULATION\Source.c(218,24): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ezekiel Chang\source\repos\FLIP SIMULATION\Source.c(218,44): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ezekiel Chang\source\repos\FLIP SIMULATION\Source.c(218,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ezekiel Chang\source\repos\FLIP SIMULATION\Source.c(219,24): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ezekiel Chang\source\repos\FLIP SIMULATION\Source.c(219,44): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ezekiel Chang\source\repos\FLIP SIMULATION\Source.c(219,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ezekiel Chang\source\repos\FLIP SIMULATION\Source.c(246,24): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ezekiel Chang\source\repos\FLIP SIMULATION\Source.c(246,44): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ezekiel Chang\source\repos\FLIP SIMULATION\Source.c(246,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ezekiel Chang\source\repos\FLIP SIMULATION\Source.c(247,24): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ezekiel Chang\source\repos\FLIP SIMULATION\Source.c(247,44): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ezekiel Chang\source\repos\FLIP SIMULATION\Source.c(247,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ezekiel Chang\source\repos\FLIP SIMULATION\Source.c(377,33): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ezekiel Chang\source\repos\FLIP SIMULATION\Source.c(377,54): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ezekiel Chang\source\repos\FLIP SIMULATION\Source.c(378,33): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ezekiel Chang\source\repos\FLIP SIMULATION\Source.c(378,54): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ezekiel Chang\source\repos\FLIP SIMULATION\Source.c(491,24): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ezekiel Chang\source\repos\FLIP SIMULATION\Source.c(617,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  FLIP SIMULATION.vcxproj -> C:\Users\Ezekiel Chang\source\repos\FLIP SIMULATION\x64\Debug\FLIP SIMULATION.exe
